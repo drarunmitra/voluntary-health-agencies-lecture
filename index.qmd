@@ -13,47 +13,34 @@ format:
 ## Roadmap
 
 - Definition and characteristics
-- Park's six functions (a–f)
+- six functions of VHA
 - Indian voluntary health agencies
 - International and bilateral agencies
 - Role in national health programmes and accountability
 
-::: {.callout-note appearance="simple"}
-Content verified against Park's *Preventive and Social Medicine*.
-:::
+
 
 ## Objectives
 
 By the end of this session you should be able to:
 
-- State Park's definition of a voluntary health agency and its characteristics
+- State definition of a voluntary health agency and its characteristics
 - Explain the six functions of voluntary health agencies with examples
 - List the major Indian voluntary health agencies and their focus
 - Distinguish voluntary and bilateral agencies from inter-governmental ones
 
-## Ask the class {.smaller}
 
-::: {.callout-tip appearance="simple"}
-<b>Ask:</b> Name a health NGO you have heard of. What does it do, and where does its money come from?
-:::
 
-. . .
-
-Hold that example. We will place it against Park's formal definition next.
-
-# 1 · Definition and characteristics {.inverse background-color="#222222"}
-
-## Park's definition {.smaller}
+## Definition
 
 ::: {.callout-important}
-"An organisation administered by an autonomous board, which holds meetings, collects funds chiefly from private sources, and expends money, whether with or without paid workers, in furthering public health by providing health services or health education, or by advancing research or legislation for health, or by a combination of these activities."
+> An organisation administered by an autonomous board, which holds meetings, collects funds chiefly from private sources, and expends money, whether with or without paid workers, in furthering public health by providing health services or health education, or by advancing research or legislation for health, or by a combination of these activities.
 :::
 
-::: {.callout-note appearance="simple"}
-This is the examinable definition. Copy it verbatim.
-:::
 
-## Scale and the "motor truck" analogy
+
+## Characteristics 
+
 
 - The United States had **over 20,000 voluntary health agencies by 1945**; such agencies flourished most in the USA.
 
@@ -80,16 +67,16 @@ Must run on tracks laid down by law.
 - Registered under the Societies Act or as a Trust
 - Foreign funding governed by the **FCRA**
 
-## Voluntary vs government agency {.smaller}
+## Voluntary vs government agency
 
 | Feature | Voluntary agency | Government agency |
 |:--|:--|:--|
 | Mandate | Chosen by the board | Set by statute |
 | Funding | Chiefly private | Public revenue |
-| Flexibility | High — can pioneer | Bound by rules |
+| Flexibility | High; can pioneer | Bound by rules |
 | Statutory basis | Registered society/trust | Law |
 
-# 2 · Park's six functions {.inverse background-color="#222222"}
+# Six functions of a VHA
 
 ## (a) Supplementing government work
 
@@ -139,9 +126,8 @@ flowchart LR
   V --> F[f · Legislate]
 ```
 
-# 3 · Indian voluntary health agencies {.inverse background-color="#222222"}
 
-## 1 · Indian Red Cross Society (1920) {.smaller}
+##  Indian Red Cross Society (1920) {.smaller}
 
 :::: {.columns}
 ::: {.column width="70%"}
@@ -164,7 +150,7 @@ flowchart LR
 - **First Geneva Convention, 1864** → International Committee of the Red Cross (ICRC).
 - **League of Red Cross Societies, 1919** (Geneva) coordinates the national societies.
 
-## 2 · Hind Kusht Nivaran Sangh (1950) {.smaller}
+##  Hind Kusht Nivaran Sangh (1950) {.smaller}
 
 - Headquarters in New Delhi; the precursor was the Indian branch of the **British Empire Leprosy Relief Association (BELRA)**.
 - Financial help to leprosy homes and clinics
@@ -172,23 +158,23 @@ flowchart LR
 - Holds All-India Leprosy Workers' Conferences
 - Publishes *Leprosy in India*
 
-## 3 · Indian Council for Child Welfare (1952) {.smaller}
+## Indian Council for Child Welfare (1952) {.smaller}
 
 - Affiliated with the **International Union for Child Welfare**.
 - Works through state and district councils.
 - Secures children's right to healthy physical, mental, moral, spiritual, and social development.
 
-## 4 · Tuberculosis Association of India (1939) {.smaller}
+## Tuberculosis Association of India (1939) {.smaller}
 
 - Branches in all states; annual **TB Seal campaign** raises funds.
 - Runs the New Delhi TB Centre, Lady Linlithgow Sanatorium (Kasauli), King Edward VII Sanatorium (Dharampur), and the TB Hospital (Mehrauli).
 
-## 5 · Bharat Sevak Samaj (1952) {.smaller}
+##  Bharat Sevak Samaj (1952) {.smaller}
 
 - Non-political and non-official; branches in all states and most districts.
 - Focus: improving **sanitation in villages**.
 
-## 6 · Central Social Welfare Board (1953) {.smaller}
+## Central Social Welfare Board (1953) {.smaller}
 
 - Autonomous body under the Ministry of Education.
 - Surveys the needs of voluntary welfare organisations
@@ -196,28 +182,28 @@ flowchart LR
 - Gives financial aid to deserving organisations
 - Started the **Family and Child Welfare Services (1968)** — craft teaching, literacy, maternity aid, balwadis
 
-## 7 · Kasturba Memorial Fund (1944) {.smaller}
+##  Kasturba Memorial Fund (1944) {.smaller}
 
 - Created in memory of Kasturba Gandhi.
 - Improves the lives of rural women through **gram-sevikas**.
 
-## 8 · Family Planning Association of India (1949) {.smaller}
+##  Family Planning Association of India (1949) {.smaller}
 
 - Headquarters in Mumbai; **pioneered** family planning work in India *(function b)*.
 - Runs family planning clinics with government grants-in-aid.
 - Trains doctors, health visitors, and social workers.
 
-## 9 · All India Women's Conference (1926) {.smaller}
+## All India Women's Conference (1926) {.smaller}
 
 - At the time, the only nationwide women's voluntary welfare organisation.
 - Runs MCH clinics, medical centres, adult education centres, milk centres, and family planning clinics.
 
-## 10 · All-India Blind Relief Society (1946) {.smaller}
+##  All-India Blind Relief Society (1946) {.smaller}
 
 - Coordinates institutions working for the blind.
 - Organises **eye relief camps**.
 
-## 11 · Professional bodies {.smaller}
+##  Professional bodies {.smaller}
 
 - Indian Medical Association
 - All India Licentiates Association
@@ -243,7 +229,7 @@ They hold conferences, publish journals, set professional standards, and organis
 | Bharat Sevak Samaj | 1952 | Village sanitation |
 | Central Social Welfare Board | 1953 | Welfare coordination |
 
-# 4 · International and bilateral agencies {.inverse background-color="#222222"}
+# International and bilateral agencies 
 
 ## Rockefeller Foundation (1913) {.smaller}
 
@@ -302,7 +288,7 @@ They hold conferences, publish journals, set professional standards, and organis
 :::
 ::::
 
-## Beyond Park's classic list {.smaller}
+## Others
 
 :::: {.columns}
 ::: {.column width="65%"}
@@ -318,7 +304,7 @@ They hold conferences, publish journals, set professional standards, and organis
 Flagged separately from the textbook-examinable roster above.
 :::
 
-## A crucial distinction {.smaller}
+## Distinctions
 
 ::: {.panel-tabset}
 
@@ -334,7 +320,7 @@ Funded and governed by member states — a **separate** chapter in Park's.
 
 :::
 
-# 5 · Role and accountability {.inverse background-color="#222222"}
+
 
 ## Role in national health programmes {.smaller}
 
@@ -347,23 +333,12 @@ Funded and governed by member states — a **separate** chapter in Park's.
 - The Indian VHA roster carries specific founding years — high-yield SAQ material.
 - Distinguish voluntary and bilateral agencies from inter-governmental ones.
 
-## Formative MCQs {.smaller}
 
-::: {.callout-tip appearance="simple"}
-1. Which function does the Rockefeller bore-hole latrine exemplify?
-2. In which year was the Indian Red Cross Society founded?
-3. Is CARE an inter-governmental agency?
-:::
 
-. . .
 
-::: {.callout-note}
-**Answers:** 1 — Demonstration (function d). 2 — 1920. 3 — No; it is a voluntary, non-profit agency.
-:::
-
-# References {.smaller}
+## References
 
 - Park K. *Park's Textbook of Preventive and Social Medicine.* (Voluntary health agencies; Ch. 25, international health agencies).
 - Voluntary Health Association of India (VHAI). Supplementary current sources.
 
-# Thank You {.inverse background-color="#222222" -}
+# Thank You
